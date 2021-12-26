@@ -1,1 +1,6 @@
-/home/ubuntu/demo-app/src/test/java/in/javahome/myweb/controller/CalculatorTest.java
+/home/ubuntu/payslip/src/test/java/payslip/NetComponentTest.java
+/home/ubuntu/payslip/src/test/java/payslip/GratuityComponentTest.java
+/home/ubuntu/payslip/src/test/java/payslip/VariableComponentTest.java
+/home/ubuntu/payslip/src/test/java/payslip/FixedComponentTest.java
+/home/ubuntu/payslip/src/test/java/payslip/TaxComponentTest.java
+/home/ubuntu/payslip/src/test/java/payslip/HelloIT.java

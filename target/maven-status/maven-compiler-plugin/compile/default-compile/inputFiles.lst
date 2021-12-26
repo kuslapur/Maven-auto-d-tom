@@ -1,1 +1,5 @@
-/home/ubuntu/demo-app/src/main/java/in/javahome/myweb/controller/Calculator.java
+/home/ubuntu/payslip/src/main/java/payslip/NetComponent.java
+/home/ubuntu/payslip/src/main/java/payslip/VariableComponent.java
+/home/ubuntu/payslip/src/main/java/payslip/TaxComponent.java
+/home/ubuntu/payslip/src/main/java/payslip/GratuityComponent.java
+/home/ubuntu/payslip/src/main/java/payslip/FixedComponent.java
